@@ -14,4 +14,5 @@ Repo :
 4. Créer un identifiant et générer un mot de passe en vous aidant du générateur suivant 
 
 https://hostingcanada.org/htpasswd-generator/
+
 5. Insérer la ligne générée dans `.htpasswd``.htpasswd`
