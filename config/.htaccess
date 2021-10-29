@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile "D:/laragon/www/projet-001/config/password/.htpasswd"
+Require valid-user
