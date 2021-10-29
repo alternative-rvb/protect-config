@@ -1,6 +1,6 @@
 # Comment protégez un dossier de site Web en utilisant .htaccess et .htpasswd
 
-Repo : 
+Repo : https://github.com/alternative-rvb/protect-config 
 
 1. Créer un fichier `.htaccess` dans le dossier  à protéger
 2. Ajouter les lignes dans `.htaccess`
